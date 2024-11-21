@@ -4,10 +4,10 @@ DAL14_20180101,a14c29,N183DN,B763,KATL,,EDDF,,,,,,,,,Delta Air Lines,False,Boein
 JBU263_20180108,aa600a,N768JB,A320,KJFK,,KSEA,,,,,,,,,JetBlue Airways,False,Airbus A320,15.9,Airbus
 DAL65_20180108,ab2855,N818NW,A333,KATL,KLAX,KLAX,,,,,,,,,Delta Air Lines,False,Airbus A330,17.4,Airbus
 EDW24_20180111,4b1901,HB-JMF,A343,LSZH,LSZH,MMUN,LSZH,engine,return,unknown,4b382175,engine,return,unknown,Edelweiss Air,False,Airbus A340,21.1,Airbus
-ASA111_20180112,a602ab,N487AS,B739,KLAS,,PANC,,,,,,,,,Alaska Airlines,False,Boeing 737,9.2,Boeing
+ASA111_20180112,a602ab,N487AS,B739,KLAS,,PANC,,,,,,,,,Alaska Airlines,False,Boeing 737 NG,9.2,Boeing
 ENY3342_20180117,a272b8,N257NN,E75L,KDFW,,KLIT,,,,,,,,,Envoy Air,False,Embraer ERJ170,7.4,Embraer
 WJA506_20180122,c0499b,C-GBWS,B736,CYXE,,CYYZ,,,,,,,,,WestJet,False,Boeing 737 NG,18.6,Boeing
-ASA619_20180122,a28a2c,N263AK,B739,KLAS,KSEA,KSEA,,,,,,,,,Alaska Airlines,False,Boeing 737,8.2,Boeing
+ASA619_20180122,a28a2c,N263AK,B739,KLAS,KSEA,KSEA,,,,,,,,,Alaska Airlines,False,Boeing 737 NG,8.2,Boeing
 QXE2782_20180124,a83920,N629QX,E75L,KSFO,,KMCI,,,,,,,,,Horizon Air,False,Embraer ERJ170,7.3,Embraer
 WOW699_20180125,4cc500,TF-NEO,A20N,LLBG,BIKF,BIKF,,,,,,,,,WOW Air,False,Airbus A320,7.6,Airbus
 DAL2345_20180127,a4462e,N3748Y,B738,KSMF,KATL,KATL,,,,,,,,,Delta Air Lines,False,Boeing 737 NG,23.5,Boeing
@@ -22,10 +22,10 @@ AFR31KQ_20180218,392ae4,F-GKXE,A320,LFML,LFPO,LFPO,,unclear,unclear,unknown,,,,,
 AZU8706_20180225,e4910e,PR-AIW,A332,SBKP,,KMCO,,,,,,,,,Azul,False,Airbus A330,22.8,Airbus
 BGA143F_20180226,394a65,F-GSTF,A3ST,EGNR,EDHI,EDHI,,,,,4b57310c,smoke_burn_smell_flames,planned,unknown,Airbus Transport International,False,Airbus A300,23.9,Airbus
 SHT16ED_20180226,400a5b,G-DBCA,A319,EGKK,EGPH,EGPH,,unclear,unclear,unknown,,,,,British Airways,False,Airbus A319,21.0,Airbus
-ACA145_20180226,c02fd5,C-FSCY,B38M,CYYZ,CYYC,CYYC,,,,,,,,,Air Canada,False,Boeing 737,7.0,Boeing
+ACA145_20180226,c02fd5,C-FSCY,B38M,CYYZ,CYYC,CYYC,,,,,,,,,Air Canada,False,Boeing 737 NG,7.0,Boeing
 RYR3ZK_20180228,4ca678,EI-FOV,B738,LPPT,LPPT,LPPR,LPPT,unclear,return,unknown,4b592dcf,cabin_pressure,return,unknown,Ryanair,False,Boeing 737 NG,8.7,Boeing
 THY80L_20180301,4ba946,TC-JJF,B77W,KSFO,,LTFM,,,,,,,,,Turkish Airlines,False,Boeing 777,14.1,Boeing
-ASA230_20180301,a28a2c,N263AK,B739,KSAN,MMSD,MMSD,,,,,,,,,Alaska Airlines,False,Boeing 737,8.2,Boeing
+ASA230_20180301,a28a2c,N263AK,B739,KSAN,MMSD,MMSD,,,,,,,,,Alaska Airlines,False,Boeing 737 NG,8.2,Boeing
 DAL445_20180303,ab7ae4,N839MH,B764,LIRF,LFPG,KJFK,LFPG,unclear,diverted,unknown,4b5b3cf5,instrument,diverted,fueldump,Delta Air Lines,False,Boeing 767,23.8,Boeing
 AFR1196_20180303,392af2,F-GKXS,A320,LFPG,LFPG,GMMN,LFPG,technical,return,unknown,,,,,Air France,False,Airbus A320,15.7,Airbus
 BGA112B_20180305,394a61,F-GSTB,A3ST,LFBO,LFBO,LFRZ,LFBO,unclear,return,unknown,,,,,Airbus Transport International,False,Airbus A300,28.7,Airbus
@@ -43,7 +43,7 @@ AAL93_20180330,a3deca,N349AN,B763,LSZH,EGLL,KPHL,EGLL,unclear,diverted,unknown,,
 ICE689_20180330,4cc269,TF-FIA,B752,BIKF,KMCO,KMCO,,,,,,,,,Icelandair,False,Boeing 757,24.3,Boeing
 ACA135_20180402,c0252d,C-FOCA,B763,CYYZ,,CYYC,,,,,,,,,Air Canada,False,Boeing 767,34.5,Boeing
 THY140_20180404,4ba92e,TC-JIN,A332,LTFM,OERK,OERK,,,,,,,,,Turkish Airlines,False,Airbus A330,16.5,Airbus
-UAL1665_20180407,a8d5a4,N66897,B739,KDEN,MMSD,MMSD,,,,,,,,,United Airlines,False,Boeing 737,8.0,Boeing
+UAL1665_20180407,a8d5a4,N66897,B739,KDEN,MMSD,MMSD,,,,,,,,,United Airlines,False,Boeing 737 NG,8.0,Boeing
 SWA1642_20180409,ab628c,N8323C,B738,KLAS,KATL,KATL,,,,,,,,,Southwest Airlines,False,Boeing 737 NG,12.1,Boeing
 DLH6TR_20180412,3c6613,D-AIPS,A320,EDDF,,EGBB,EGLL,smoke_burn_smell_flames,diverted,unknown,,,,,Lufthansa,False,Airbus A320,34.4,Airbus
 SVA637_20180412,710126,HZ-AS58,A320,OERK,,OJAI,,,,,,,,,Saudi Arabian Airlines,False,Airbus A320,7.5,Airbus
@@ -95,7 +95,7 @@ AAL2237_20180606,a0a2bd,N140AN,A321,KDCA,KDFW,KDFW,,,,,,,,,American Airlines,Fal
 NAX7075_20180606,4950d8,CS-TFX,A345,LEBL,LEBL,KOAK,LEBL,unclear,return,unknown,,,,,HiFly,False,Airbus A340,16.3,Airbus
 AAL2057_20180606,a7101e,N554UW,A321,KLAX,,KCLT,,,,,,,,,American Airlines,False,Airbus A321,12.9,Airbus
 ACA832_20180610,c0583f,C-GHKW,A333,CYUL,,EBBR,,,,,,,,,Air Canada,False,Airbus A330,23.5,Airbus
-TVF71AT_20180610,3964e3,F-GZHD,B738,LFPO,LFPO,LEZL,LFPO,unclear,return,unknown,,,,,Transavia France,False,Boeing 737,16.6,Boeing
+TVF71AT_20180610,3964e3,F-GZHD,B738,LFPO,LFPO,LEZL,LFPO,unclear,return,unknown,,,,,Transavia France,False,Boeing 737 NG,16.6,Boeing
 SKU502_20180613,e80321,CC-AID,A319,SAEZ,,SCEL,,,,,,,,,Sky Airline,False,Airbus A319,19.7,Airbus
 AFR228_20180614,3949f2,F-GSPS,B772,LFPG,LFPG,SAEZ,LFPG,technical,return,unknown,,,,,Air France,False,Boeing 777,23.1,Boeing
 UAL14_20180616,aa44d0,N76065,B764,KEWR,EGLL,EGLL,,unclear,planned,unknown,,,,,United Airlines,False,Boeing 767,22.6,Boeing
@@ -112,7 +112,7 @@ DAL819_20180630,a3d3f0,N346DN,A321,KLAX,KATL,KATL,,,,,,,,,Delta Air Lines,False,
 TJK646_20180701,0d0573,EY-444,B733,UUDD,UUUD,UTDL,UUUD,cabin_pressure,return,unknown,4ba9da5e,cabin_pressure,return,hold_to_reduce,Tajik Air,False,Boeing 737 Classic,32.7,Boeing
 EZY57UT_20180705,406d92,G-EZOM,A320,LIMC,,LGIR,LIMC,unclear,return,unknown,4badb5c2,smoke_burn_smell_flames,return,unknown,easyJet,False,Airbus A320,9.6,Airbus
 NAX7191_20180706,4950cd,CS-TFM,B772,LFPO,LFPO,KEWR,LFPO,landing_gear,return,hold_to_reduce,4bae6d1a,landing_gear,return,fueldump,Euro-Asia Air,False,Boeing 777,26.5,Boeing
-SWA4133_20180707,aaa929,N7860A,B737,KMCO,KDAL,KDAL,,,,,,,,,Southwest Airlines,False,Boeing 737,19.5,Boeing
+SWA4133_20180707,aaa929,N7860A,B737,KMCO,KDAL,KDAL,,,,,,,,,Southwest Airlines,False,Boeing 737 NG,19.5,Boeing
 ASH5740_20180707,a390e3,N329MS,CRJ9,KDFW,,KAMA,,,,,,,,,Mesa Airlines,True,Canadair CRJ 900,17.3,Canadair
 ICE784_20180708,4cc29f,TF-FIH,B752,BIKF,EGPF,EBLG,EGPF,unclear,diverted,unknown,,,,,Icelandair,True,Boeing 757,34.7,Boeing
 LCO1102_20180711,a4f2d3,N418LA,B763,KMIA,KMIA,SAEZ,KMIA,unclear,return,unknown,,,,,LATAM,True,Boeing 767,19.1,Boeing
@@ -140,14 +140,14 @@ UAL463_20180812,a923a9,N68823,B739,KLGA,KORD,KORD,,,,,,,,,United Airlines,False,
 BCS5706_20180814,4070a7,G-DHKB,B752,LIME,LIME,LROP,LIME,unclear,return,unknown,4bc5c976,cabin_pressure,return,unknown,DHL Air,True,Boeing 757,24.1,Boeing
 AFR35MP_20180815,3991e6,F-HEPG,A320,EIDW,LFPG,LFPG,,engine,planned,unknown,,,,,Air France,False,Airbus A320,11.2,Airbus
 WJA454_20180815,c0371f,C-FUWS,B737,CYVR,,CYEG,,,,,,,,,WestJet,False,Boeing 737 NG,20.2,Boeing
-BAW22KV_20180817,3c1298,D-AWBB,B737,EGKK,EGKK,LEIB,EGKK,technical,return,unknown,,,,,PrivatAir Germany,False,Boeing 737,25.0,Boeing
+BAW22KV_20180817,3c1298,D-AWBB,B737,EGKK,EGKK,LEIB,EGKK,technical,return,unknown,,,,,PrivatAir Germany,False,Boeing 737 NG,25.0,Boeing
 FHY638_20180818,4b9856,TC-FBV,A320,EGSH,EBBR,LTBS,EBBR,bird,diverted,hold_to_reduce,,,,,Freebird Airlines,False,Airbus A320,13.7,Airbus
 DAL564_20180820,a44988,N3756,B738,KATL,,MMGL,,,,,,,,,Delta Air Lines,False,Boeing 737 NG,23.3,Boeing
 AAL2756_20180820,ac754b,N9010R,A319,KDFW,,MSLP,,,,,,,,,American Airlines,False,Airbus A319,11.2,Airbus
 AMX493_20180821,0d0707,XA-AMA,B738,KSJC,,MMMX,,,,,,,,,Aeromexico,False,Boeing 737 NG,12.3,Boeing
 ARG1488_20180822,e07581,LV-GVA,B738,SABE,,SANE,,,,,,,,,Aerolineas Argentinas,False,Boeing 737 NG,7.4,Boeing
 DAL389_20180826,a3ad5a,N336NW,A320,KATL,MMSD,MMSD,,,,,,,,,Delta Air Lines,False,Airbus A320,32.3,Airbus
-ROT1975_20180828,4a08e6,YR-BGF,B737,LROP,,LROP,,unclear,unclear,unknown,,,,,TAROM,False,Boeing 737,23.7,Boeing
+ROT1975_20180828,4a08e6,YR-BGF,B737,LROP,,LROP,,unclear,unclear,unknown,,,,,TAROM,False,Boeing 737 NG,23.7,Boeing
 ICE82B_20180829,4cc270,TF-ISF,B752,BIKF,,ESSA,,,,,,,,,Icelandair,False,Boeing 757,33.9,Boeing
 WZZ8HT_20180830,471f63,HA-LXB,A321,LROP,EGKK,EGKK,,technical,planned,unknown,,,,,Wizz Air,False,Airbus A321,8.9,Airbus
 FDX5086_20180830,acc619,N922FD,B752,LFPG,LFSB,LFSB,,unclear,planned,unknown,,,,,FedEx - Federal Express,True,Boeing 757,35.7,Boeing
@@ -174,7 +174,7 @@ ARG1284_20181002,e07191,LV-GFQ,B738,SAEZ,SCEL,SCEL,,,,,,,,,Aerolineas Argentinas
 ROU1681_20181003,c01945,C-FJOU,A321,CYYZ,CYYJ,CYYJ,,,,,,,,,Air Canada Rouge,False,Airbus A321,9.0,Airbus
 CFG226_20181006,3c4aa1,D-ABUA,B763,EDDF,EDDF,MDPC,EDDF,unclear,return,unknown,,,,,Condor,True,Boeing 767,32.2,Boeing
 IBK7MZ_20181006,406f26,G-NRWY,B738,LPFR,LFRS,EGKK,LFRS,unclear,diverted,unknown,,,,,Norwegian Air UK,False,Boeing 737 NG,11.2,Boeing
-BRU974_20181008,51008d,EW-437PA,B738,UUBW,,UMMS,,unclear,unclear,unknown,4bec1438,cabin_pressure,planned,unknown,Belavia,False,Boeing 737,24.7,Boeing
+BRU974_20181008,51008d,EW-437PA,B738,UUBW,,UMMS,,unclear,unclear,unknown,4bec1438,cabin_pressure,planned,unknown,Belavia,False,Boeing 737 NG,24.7,Boeing
 SHT3L_20181009,40087a,G-EUPK,A319,EGCC,EGLL,EGLL,,landing_gear,planned,unknown,,,,,British Airways,False,Airbus A319,24.5,Airbus
 RYR22BH_20181009,4cace0,EI-GJT,B738,LPPR,EGPH,EGPH,,unclear,planned,unknown,4cea9f3f,misc,planned,unknown,Ryanair,False,Boeing 737 NG,6.6,Boeing
 SVA020_20181011,710121,HZ-AK43,B77W,KJFK,LFPG,OEJN,LFPG,unclear,diverted,unknown,,,,,Saudi Arabian Airlines,False,Boeing 777,7.6,Boeing
@@ -194,7 +194,7 @@ AFR24NG_20181029,393320,F-GMZA,A321,LFML,LFLL,LFPO,LFLL,smoke_burn_smell_flames,
 VIV3719_20181030,0d0ac8,XA-VAY,A320,MMTJ,,MMMX,,,,,,,,,VivaAerobus,False,Airbus A320,6.8,Airbus
 FDX1446_20181031,aa1e41,N751FD,A306,KMEM,KPIT,KPIT,,,,,,,,,FedEx - Federal Express,True,Airbus A300,33.0,Airbus
 TAP087_20181101,4951e2,CS-TOB,A343,LPPT,,SBGR,,,,,,,,,TAP Air Portugal,False,Airbus A340,29.9,Airbus
-DAL2412_20181101,abd2e6,N861DN,B739,KMSP,KSFO,KSFO,,unclear,unclear,unknown,,,,,Delta Air Lines,False,Boeing 737,8.4,Boeing
+DAL2412_20181101,abd2e6,N861DN,B739,KMSP,KSFO,KSFO,,unclear,unclear,unknown,,,,,Delta Air Lines,False,Boeing 737 NG,8.4,Boeing
 UAL1014_20181101,a923a9,N68823,B739,KIAH,,MMUN,,,,,,,,,United Airlines,False,Boeing 737 NG,10.6,Boeing
 ASH6075_20181102,ac0418,N87319,E75L,KOKC,KIAD,KIAD,,,,,,,,,Mesa Airlines,False,Embraer ERJ170,9.9,Embraer
 BAW269_20181106,406a04,G-XLEE,A388,EGLL,EGLL,KLAX,EGLL,engine,return,fueldump,,,,,British Airways,False,Airbus A380,11.1,Airbus
@@ -206,7 +206,7 @@ TPU966_20181112,a611c2,N490TA,A320,SAEZ,,SPJC,,,,,,,,,Avianca Costa Rica,False,A
 ENY3436_20181113,a252a7,N249NN,E75L,KDFW,KXNA,KXNA,,,,,,,,,Envoy Air,False,Embraer ERJ170,7.8,Embraer
 AAL2665_20181113,a47903,N388AA,B763,KPHL,KPHL,KMIA,KPHL,cabin_pressure,return,unknown,4c05e30c,maintenance,return,unknown,American Airlines,True,Boeing 767,29.9,Boeing
 AFR102J_20181114,392af8,F-GKXY,A320,LFPG,,LPPT,LFBD,technical,diverted,unknown,,,,,Air France,False,Airbus A320,15.0,Airbus
-SWA2263_20181116,aaa929,N7860A,B737,KLAX,KPHX,KPHX,,,,,,,,,Southwest Airlines,False,Boeing 737,19.5,Boeing
+SWA2263_20181116,aaa929,N7860A,B737,KLAX,KPHX,KPHX,,,,,,,,,Southwest Airlines,False,Boeing 737 NG,19.5,Boeing
 BAW869_20181117,400980,G-EUUE,A320,LHBP,,EGLL,,unclear,planned,unknown,,,,,British Airways,False,Airbus A320,22.6,Airbus
 AFR1464_20181119,3944f3,F-GRHT,A319,LFPG,LFPG,ULLI,LFPG,unclear,return,unknown,,,,,Air France,False,Airbus A319,23.8,Airbus
 GLO1524_20181119,e48c2f,PR-GUX,B738,SBGR,SBFZ,SBFZ,,,,,,,,,Gol,False,Boeing 737 NG,11.9,Boeing
@@ -245,7 +245,7 @@ ACA878_20190101,c038a7,C-FVLU,B789,CYYZ,,LSZH,,,,,,,,,Air Canada,False,Boeing 78
 AAL944_20190104,aae465,N8001N,A319,KSTL,KMIA,KMIA,,,,,,,,,American Airlines,False,Airbus A319,11.4,Airbus
 QXE2554_20190106,a822d6,N623QX,E75L,KSJC,KPDX,KPDX,,,,,,,,,Horizon Air,False,Embraer ERJ170,7.6,Embraer
 CCM780R_20190108,398640,F-HBSA,A320,LFKB,LFLL,LFPO,LFLL,unclear,diverted,unknown,,,,,Air Corsica,False,Airbus A320,15.6,Airbus
-TVF19JZ_20190108,3964e3,F-GZHD,B738,,LFPO,,,unclear,unclear,unknown,,,,,Transavia France,False,Boeing 737,16.6,Boeing
+TVF19JZ_20190108,3964e3,F-GZHD,B738,,LFPO,,,unclear,unclear,unknown,,,,,Transavia France,False,Boeing 737 NG,16.6,Boeing
 AWI4856_20190109,a58fe9,N458AW,CRJ2,KORD,KMKE,KMKE,,,,,,,,,Air Wisconsin,True,Canadair CRJ,21.1,Canadair
 CPZ6033_20190110,a1cd4e,N215NN,E75L,KLAX,KPDX,KSFO,KPDX,,,,,,,,Envoy Air,False,Embraer ERJ170,9.1,Embraer
 SWA1260_20190110,abb4ea,N8530W,B738,KDAL,KPHL,KPHL,,,,,,,,,Southwest Airlines,False,Boeing 737 NG,7.6,Boeing
@@ -266,7 +266,7 @@ SKW5113_20190121,acae9a,N916SW,CRJ2,KDEN,KDEN,KRKS,KDEN,unclear,return,hold_to_r
 AAL1860_20190123,aa2e6f,N755US,A319,KCLT,KALB,KALB,,,,,,,,,American Airlines,False,Airbus A319,24.2,Airbus
 AIJ2454_20190124,0d0abb,XA-JOE,A21N,MMMX,MMHO,MMHO,,,,,,,,,Interjet,False,Airbus A321,6.8,Airbus
 JIA5203_20190124,a7b4ea,N596NN,CRJ9,KPIT,KCLT,KCLT,,,,,,,,,PSA Airlines,False,Canadair CRJ 900,8.4,Canadair
-KLM1293_20190124,48455b,PH-BGD,B737,EHAM,EGPH,EGPH,,unclear,planned,unknown,,,,,KLM,False,Boeing 737,16.4,Boeing
+KLM1293_20190124,48455b,PH-BGD,B737,EHAM,EGPH,EGPH,,unclear,planned,unknown,,,,,KLM,False,Boeing 737 NG,16.4,Boeing
 TAO536_20190126,0d0a25,XA-UYM,AT76,MMPS,MMMX,MMMX,,,,,,,,,Aeromar,False,ATR 72,7.9,ATR
 FFT1428_20190126,a98408,N712FR,A321,KPHX,KPHX,KORD,KPHX,unclear,return,hold_to_reduce,,,,,Frontier Airlines,False,Airbus A321,8.4,Airbus
 ACA265_20190128,c010ea,C-FGKN,A321,CYYZ,,CYWG,,,,,,,,,Air Canada,False,Airbus A321,17.7,Airbus
@@ -293,7 +293,7 @@ ASA1100_20190226,ab7ba5,N839VA,A320,KSFO,KBNA,KBNA,,,,,,,,,Alaska Airlines,False
 SKW4167_20190228,a26bb8,N255SY,E75L,KSLC,KBUR,KBUR,,,,,,,,,SkyWest Airlines,False,Embraer ERJ170,8.0,Embraer
 EZY85YK_20190301,406a95,G-EZWU,A320,EGPH,EGPH,EDDH,EGPH,unclear,return,unknown,,,,,easyJet,False,Airbus A320,10.6,Airbus
 ENY3451_20190304,a29680,N266NN,E75L,KDFW,,MMMY,,,,,,,,,Envoy Air,False,Embraer ERJ170,6.0,Embraer
-RYR6827_20190305,4ca9d3,EI-EVK,B738,LPFR,EGPH,EGPH,,unclear,planned,unknown,,,,,Ryanair,False,Boeing 737,12.7,Boeing
+RYR6827_20190305,4ca9d3,EI-EVK,B738,LPFR,EGPH,EGPH,,unclear,planned,unknown,,,,,Ryanair,False,Boeing 737 NG,12.7,Boeing
 TAM3852_20190306,e48053,PR-MHK,A320,SBGL,SBFZ,SBFZ,,,,,,,,,LATAM Brasil,False,Airbus A320,17.8,Airbus
 AFR361V_20190306,3991e8,F-HEPI,A320,LFBO,LFPG,LFPG,,unclear,unclear,unknown,,,,,Air France,False,Airbus A320,7.4,Airbus
 FDX1601_20190307,a10fe8,N168FE,B763,KDFW,KIND,KIND,,,,,,,,,FedEx - Federal Express,True,Boeing 767,6.1,Boeing
@@ -333,7 +333,7 @@ SKW3882_20190410,ab24f7,N817SK,CRJ9,KATL,,KTLH,,,,,,,,,SkyWest Airlines,False,Ca
 DAL2031_20190410,acdc3a,N928DN,MD90,KATL,KMKE,KMKE,,,,,,,,,Delta Air Lines,False,McDonnell Douglas MD-90,25.6,McDonnell Douglas
 BAW265N_20190411,400d5a,G-DBCG,A319,EGKK,EBBR,LOWS,EBBR,smoke_burn_smell_flames,diverted,unknown,,,,,British Airways,False,Airbus A319,18.8,Airbus
 FIN6EN_20190413,461f36,OH-LVI,A319,EFHK,ESSA,EGCC,EFHK,cabin_pressure,diverted,unknown,4c6a625f,cabin_pressure,diverted,unknown,Finnair,False,Airbus A319,24.1,Airbus
-DAL1644_20190414,abd2e6,N861DN,B739,KSLC,KLAS,KLAS,,,,,,,,,Delta Air Lines,False,Boeing 737,8.4,Boeing
+DAL1644_20190414,abd2e6,N861DN,B739,KSLC,KLAS,KLAS,,,,,,,,,Delta Air Lines,False,Boeing 737 NG,8.4,Boeing
 AMX026_20190415,0d0a9b,XA-ADH,B789,EHAM,EHAM,MMMX,EHAM,technical,return,hold_to_reduce,4c6d2f8c,instrument,return,unknown,Aeromexico,False,Boeing 787,6.9,Boeing
 AAL1630_20190415,a00df9,N102UW,A320,KATL,,KDFW,,,,,,,,,American Airlines,False,Airbus A320,26.5,Airbus
 FFT1072_20190417,a3965c,N330FR,A20N,KMCO,,KDTW,,,,,,,,,Frontier Airlines,False,Airbus A320,6.6,Airbus
@@ -366,7 +366,7 @@ UAL851_20190502,aa92ff,N78008,B772,KORD,,ZBAA,,,,,,,,,United Airlines,False,Boei
 MJF319_20190503,44071e,OE-LJG,A319,,EBBR,,,unclear,unclear,unknown,,,,,MJet,False,Airbus A319,14.4,Airbus
 JAF5CP_20190503,505cf8,OM-GEX,B738,LFPO,,GMMN,,,,,,,,,Air Explore,False,Boeing 737 NG,25.3,Boeing
 SKW3504_20190504,a8fd5a,N679CA,CRJ9,KATL,KGRB,KGRB,,,,,,,,,SkyWest Airlines,False,Canadair CRJ 900,17.2,Canadair
-UAL1910_20190505,a8d4ef,N66841,B739,KIAD,KIAD,KLAS,KIAD,cracked_windshield,return,unknown,,,,,United Airlines,False,Boeing 737,9.8,Boeing
+UAL1910_20190505,a8d4ef,N66841,B739,KIAD,KIAD,KLAS,KIAD,cracked_windshield,return,unknown,,,,,United Airlines,False,Boeing 737 NG,9.8,Boeing
 SWA1883_20190507,aa7aa6,N7743B,B737,KSEA,KSMF,KSMF,,,,,,,,,Southwest Airlines,False,Boeing 737 NG,16.7,Boeing
 NKS317_20190509,a80dac,N618NK,A320,KIND,KSFB,KMCO,KSFB,,,,,,,,Spirit Airlines,False,Airbus A320,11.9,Airbus
 JBU120_20190512,a707a3,N552JB,A320,KMCO,KALB,KALB,,,,,,,,,JetBlue Airways,False,Airbus A320,22.0,Airbus
@@ -379,7 +379,7 @@ SVA2126_20190520,4bbc6d,TC-OCM,A332,OEJN,,DABC,,,,,,,,,Onur Air,False,Airbus A33
 SKW3960_20190520,a56643,N447SW,CRJ2,KDTW,,KCHA,,,,,,,,,SkyWest Airlines,False,Canadair CRJ 100,22.2,Canadair
 AAL1188_20190520,ad4747,N955AN,B738,MGGT,KDFW,KDFW,,,,,,,,,American Airlines,False,Boeing 737 NG,23.8,Boeing
 DAL1151_20190521,acffbc,N937AT,B712,KATL,KATW,KATW,,,,,,,,,Delta Air Lines,False,Boeing 717,23.4,Boeing
-DAL2785_20190524,abd2e6,N861DN,B739,KDTW,KLAX,KLAX,,unclear,unclear,unknown,,,,,Delta Air Lines,False,Boeing 737,8.4,Boeing
+DAL2785_20190524,abd2e6,N861DN,B739,KDTW,KLAX,KLAX,,unclear,unclear,unknown,,,,,Delta Air Lines,False,Boeing 737 NG,8.4,Boeing
 GLO1746_20190525,e4814b,PR-VBG,B738,SBBR,,SBRF,,,,,,,,,Gol,False,Boeing 737 NG,16.3,Boeing
 TVF39AU_20190526,3964f9,F-GZHZ,B738,LFRS,LFRS,LIRF,LFRS,unclear,return,unknown,4c87af60,fuel_leak,return,unknown,Transavia France,False,Boeing 737 NG,18.8,Boeing
 AIJ2971_20190526,0d09f3,XA-CBA,A320,KLAX,,MMMX,,,,,,,,,Interjet,False,Airbus A320,8.2,Airbus
@@ -394,7 +394,7 @@ AFR72UF_20190602,3950c3,F-GUGD,A318,LFBP,,LFPO,,unclear,planned,unknown,,,,,Air 
 BTI1F5_20190603,502c7b,YL-BAJ,DH8D,EVRA,EVRA,ESSA,EVRA,unclear,unclear,unknown,4c8c1e8b,cabin_pressure,return,unknown,airBaltic,False,Bombardier DHC-8,13.9,Bombardier
 IBS36SA_20190604,34368e,EC-LEA,A320,EDDT,LFPG,LFPG,,,,,,,,,Iberia Express,False,Airbus A320,25.2,Airbus
 RPA6030_20190604,abf7e2,N870RW,E170,KIND,KIND,KLGA,KIND,unclear,return,unknown,,,,,Envoy Air,False,Embraer ERJ170,18.3,Embraer
-DAL1894_20190607,acc5fb,N922DZ,B739,KSFO,KCVG,KCVG,,unclear,planned,unknown,,,,,Delta Air Lines,False,Boeing 737,5.7,Boeing
+DAL1894_20190607,acc5fb,N922DZ,B739,KSFO,KCVG,KCVG,,unclear,planned,unknown,,,,,Delta Air Lines,False,Boeing 737 NG,5.7,Boeing
 AAL2270_20190608,a0e7f4,N158AN,A321,KDFW,KTPA,KTPA,,,,,,,,,American Airlines,False,Airbus A321,8.7,Airbus
 BAW9CG_20190609,40040d,G-BNLN,B744,EGLL,,KPHX,,unclear,unclear,unknown,4d6a301b,misc,planned,unknown,British Airways,False,Boeing 747,34.3,Boeing
 JIA5654_20190610,a73e6d,N566NN,CRJ9,KCLT,,KMSY,,,,,,,,,PSA Airlines,False,Canadair CRJ 900,9.8,Canadair
@@ -403,13 +403,13 @@ UAL90_20190613,a2659a,N2534U,B77W,KEWR,,LLBG,,,,,,,,,United Airlines,False,Boein
 AAL97_20190613,a482ca,N390AA,B763,LHBP,EDDF,KPHL,EDDF,fuel_leak,diverted,unknown,4c92a6b1,fuel_leak,diverted,unknown,American Airlines,False,Boeing 767,29.8,Boeing
 CES5595_20190614,78069c,B-6715,A320,ZUUU,,ZGSD,,,,,,,,,China Eastern Airlines,False,Airbus A320,14.1,Airbus
 BAW575_20190615,40097f,G-EUUD,A320,LIML,,EGLL,,unclear,planned,unknown,,,,,British Airways,False,Airbus A320,22.7,Airbus
-SWA4850_20190616,aab129,N7884G,B737,KDAL,KPHX,KPHX,,,,,,,,,Southwest Airlines,False,Boeing 737,23.4,Boeing
+SWA4850_20190616,aab129,N7884G,B737,KDAL,KPHX,KPHX,,,,,,,,,Southwest Airlines,False,Boeing 737 NG,23.4,Boeing
 AAL578_20190617,a6fb32,N549UW,A321,KPHX,KSEA,KSEA,,,,,,,,,American Airlines,False,Airbus A321,13.0,Airbus
 AAL691_20190617,ad24ab,N946NN,B738,KPHX,KAUS,KAUS,,,,,,,,,American Airlines,False,Boeing 737 NG,10.8,Boeing
 ENY3650_20190617,acc954,N923AE,E145,KORD,KATW,KATW,,,,,,,,,Piedmont Airlines,False,Embraer ERJ145,19.6,Embraer
 MSR767_20190617,0100e0,SU-GCS,B738,HECA,LEBL,LEBL,,unclear,unclear,unknown,,,,,EgyptAir,False,Boeing 737 NG,16.3,Boeing
 JBU296_20190617,a7456c,N568JB,A320,KPDX,,KBOS,,,,,,,,,JetBlue Airways,False,Airbus A320,21.4,Airbus
-ASA736_20190617,a2d1bc,N281AK,B739,KSEA,,KBOS,,,,,,,,,Alaska Airlines,False,Boeing 737,7.1,Boeing
+ASA736_20190617,a2d1bc,N281AK,B739,KSEA,,KBOS,,,,,,,,,Alaska Airlines,False,Boeing 737 NG,7.1,Boeing
 KLM76U_20190618,48436b,PH-BQD,B772,KSFO,,EHAM,,,,,,,,,KLM,False,Boeing 777,20.9,Boeing
 AAL755_20190618,a2e0a5,N285AY,A332,LFPG,LFPG,KPHL,LFPG,unclear,return,unknown,,,,,American Airlines,False,Airbus A330,14.7,Airbus
 EZY729X_20190618,406d8e,G-EZOI,A320,EGGW,EGPH,EGPH,,unclear,planned,unknown,,,,,easyJet,False,Airbus A320,9.7,Airbus
@@ -417,7 +417,7 @@ ASA589_20190620,a67b81,N517AS,B738,KBUR,KSEA,KSEA,,,,,,,,,Alaska Airlines,False,
 TOM3GL_20190620,406471,G-FDZT,B738,EGPH,EGPF,GCRR,EGPF,bird,diverted,unknown,4c97145e,bird,diverted,unknown,TUI Airways,False,Boeing 737 NG,13.9,Boeing
 BEE1BA_20190620,406f9a,G-PRPE,DH8D,EGAC,EGAC,EGPH,EGAC,unclear,return,unknown,4c97173e,engine,return,unknown,Flybe,False,Bombardier DHC-8,16.4,Bombardier
 AIC503_20190620,800be5,VT-CID,A20N,VOBL,VOHS,VIDP,VOHS,technical,diverted,unknown,,,,,Air India,False,Airbus A320,7.8,Airbus
-DAL2274_20190622,abd2e6,N861DN,B739,KATL,KDEN,KDEN,,unclear,unclear,unknown,,,,,Delta Air Lines,False,Boeing 737,8.4,Boeing
+DAL2274_20190622,abd2e6,N861DN,B739,KATL,KDEN,KDEN,,unclear,unclear,unknown,,,,,Delta Air Lines,False,Boeing 737 NG,8.4,Boeing
 UAL1652_20190623,aaf9ea,N806UA,A319,KEWR,KATL,KATL,,,,,,,,,United Airlines,False,Airbus A319,26.8,Airbus
 NKS970_20190624,a6464b,N503NK,A319,KDEN,KFLL,KFLL,,,,,,,,,Spirit Airlines,False,Airbus A319,19.6,Airbus
 CAW419_20190624,00c465,ZS-ZWU,B738,FAOR,,FACT,,,,,,,,,Comair,True,Boeing 737 NG,21.6,Boeing
@@ -465,7 +465,7 @@ SVR2803_20190809,424435,VQ-BCE,A321,UUDD,,UCFM,,,,,,,,,Ural Airlines,False,Airbu
 EZY79MB_20190810,406a91,G-EZWP,A320,LIBR,LFPG,EGKK,LFPG,unclear,diverted,unknown,,,,,easyJet,False,Airbus A320,10.9,Airbus
 QTR920_20190811,06a073,A7-BBC,B77L,OTHH,OTHH,NZAA,OTHH,engine,diverted,fueldump,4cb7362d,engine,return,fueldump,Qatar Airways,False,Boeing 777,15.1,Boeing
 BGA113C_20190812,394a62,F-GSTC,A3ST,LFBO,LFBO,,LFBO,unclear,return,unknown,,,,,Airbus Transport International,False,Airbus A300,27.6,Airbus
-TUI93E_20190813,3c4961,D-ABKA,B738,EDDL,,LEIB,LFML,unclear,diverted,unknown,,,,,TUIfly,False,Boeing 737,25.7,Boeing
+TUI93E_20190813,3c4961,D-ABKA,B738,EDDL,,LEIB,LFML,unclear,diverted,unknown,,,,,TUIfly,False,Boeing 737 NG,25.7,Boeing
 RAM718D_20190813,020027,CN-RNR,B737,GMMN,LFLL,LFLL,,unclear,unclear,unknown,,,,,Royal Air Maroc,False,Boeing 737 NG,24.7,Boeing
 AFR11DN_20190816,394c19,F-GTAZ,A321,LFPG,,LEMD,LFBD,technical,return,unknown,4cba3de2,cabin_pressure,diverted,unknown,Air France,False,Airbus A321,13.1,Airbus
 AFR702_20190816,3949e0,F-GSPA,B772,LFPG,LFPG,DIAP,LFPG,unclear,return,unknown,,,,,Air France,False,Boeing 777,26.7,Boeing
@@ -488,7 +488,7 @@ BAW89P_20190826,406d79,G-ZBKC,B789,KSJC,EGLL,EGLL,,unclear,unclear,unknown,,,,,B
 AAL2318_20190826,ac81d2,N905AU,A321,KDFW,KLAX,KLAX,,,,,,,,,American Airlines,False,Airbus A321,7.4,Airbus
 DAL2590_20190828,ab43c6,N825DN,B739,KATL,KDEN,KDEN,,,,,,,,,Delta Air Lines,False,Boeing 737 NG,10.3,Boeing
 BCS63A_20190829,3c5434,D-AEAT,A306,LEMD,LEMD,EHAM,LEMD,unclear,return,unknown,,,,,EAT Leipzig,True,Airbus A300,30.4,Airbus
-TAR635_20190831,02a1cd,TS-ION,B736,LFPO,,DTTJ,LFML,unclear,diverted,unknown,,,,,Tunisair,False,Boeing 737,24.7,Boeing
+TAR635_20190831,02a1cd,TS-ION,B736,LFPO,,DTTJ,LFML,unclear,diverted,unknown,,,,,Tunisair,False,Boeing 737 NG,24.7,Boeing
 ASA1384_20190831,a855e2,N636VA,A320,KPSP,KSEA,KSEA,,,,,,,,,Alaska Airlines,False,Airbus A320,16.7,Airbus
 ICE10M_20190902,4cc27a,TF-ISV,B752,BIKF,BIKF,LSZH,BIKF,unclear,return,unknown,,,,,Icelandair,False,Boeing 757,25.6,Boeing
 UAL1827_20190903,a0acdd,N14228,B738,KEWR,KSAN,KSAN,,,,,,,,,United Airlines,False,Boeing 737 NG,25.5,Boeing
@@ -561,7 +561,7 @@ EXS3ZC_20191110,406caa,G-GDFU,B738,LEAL,LFRS,EGBB,LFRS,unclear,diverted,unknown,
 UAL275_20191110,a5ef0e,N48127,B752,KEWR,KLAX,KLAX,,,,,,,,,United Airlines,False,Boeing 757,26.8,Boeing
 SWA2065_20191114,a1fd03,N227WN,B737,KJAX,KBNA,KBNA,,,,,,,,,Southwest Airlines,False,Boeing 737 NG,19.0,Boeing
 TSC691_20191116,c07877,C-GTQC,B738,MUSC,KMCO,CYYZ,KMCO,engine,diverted,hold_to_reduce,4cf65d38,engine,diverted,unknown,Air Transat,False,Boeing 737 NG,18.7,Boeing
-DAL497_20191117,ac4d1a,N892DN,B739,KJFK,,MDSD,,,,,,,,,Delta Air Lines,False,Boeing 737,6.7,Boeing
+DAL497_20191117,ac4d1a,N892DN,B739,KJFK,,MDSD,,,,,,,,,Delta Air Lines,False,Boeing 737 NG,6.7,Boeing
 PDT4780_20191118,a895b0,N652RS,E145,KSBY,KPHL,KPHL,,unclear,unclear,unknown,,,,,Piedmont Airlines,False,Embraer ERJ145,24.9,Embraer
 AAL343_20191119,a10931,N166NN,A321,KSFO,KMIA,KMIA,,,,,,,,,American Airlines,False,Airbus A321,8.4,Airbus
 BEE2AN_20191120,4072b7,G-PRPO,DH8D,EGAC,EGGP,EGLC,EGGP,unclear,diverted,unknown,,,,,Flybe,False,Bombardier DHC-8,16.3,Bombardier
@@ -603,7 +603,7 @@ PAC213_20191227,abc5b8,N858GT,B748,KCVG,,RJAA,,,,,,,,,Polar Air Cargo,True,Boein
 QTR2FV_20191230,06a0b3,A7-BCO,B788,OTHH,UUDD,ENGM,UUDD,technical,diverted,unknown,4d19dc61,engine,diverted,unknown,Qatar Airways,False,Boeing 787,10.4,Boeing
 EDV5022_20191230,ab6ebb,N836AY,CRJ2,KATL,KXNA,KGNV,KXNA,,,,,,,,Endeavor Air,False,Canadair CRJ 100,19.4,Canadair
 WJA1681_20191231,c06e93,C-GPWS,B736,KJFK,CYYC,CYYC,,,,,,,,,WestJet,False,Boeing 737 NG,19.3,Boeing
-KLM35N_20200102,48418b,PH-BXP,B739,EHAM,EGCC,EGCC,,unclear,planned,unknown,,,,,KLM,False,Boeing 737,23.3,Boeing
+KLM35N_20200102,48418b,PH-BXP,B739,EHAM,EGCC,EGCC,,unclear,planned,unknown,,,,,KLM,False,Boeing 737 NG,23.3,Boeing
 DLH26V_20200102,3c65c6,D-AINF,A20N,LEBB,EDDF,EDDF,,unclear,unclear,unknown,,,,,Lufthansa,False,Airbus A321,7.3,Airbus
 POE944_20200102,c06360,C-GLQL,DH8D,KBOS,CYYZ,CYTZ,CYYZ,,,,,,,,Porter Airlines,False,Bombardier DHC-8,15.6,Bombardier
 ASA284_20200104,a3649a,N318AS,B739,KSMF,,MMSD,,,,,,,,,Alaska Airlines,False,Boeing 737 NG,21.5,Boeing
