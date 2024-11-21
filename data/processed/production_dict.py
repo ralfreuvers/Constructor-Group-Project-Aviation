@@ -14,7 +14,6 @@ production_dict = {
     'BAe Avro RJ': 387,
     'Boeing 717': 156,
     'Boeing 727': 1832,
-    'Boeing 737': 6960,
     'Boeing 737 Classic': 1988,
     'Boeing 737 NG': 6960,
     'Boeing 737 Original': 1150,
